@@ -1,0 +1,24 @@
+{
+  "Version": 1,
+  "Hash": "6ykvduNWX+SL5ocJpcrJ4Df7haJ8eWlENbxfgtgJWBc=",
+  "Source": "ReactApp1.Server",
+  "BasePath": "_content/ReactApp1.Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "C:\\Users\\patri\\OneDrive\\Desktop\\Proiect II\\ReactApp1\\reactapp1.client\\reactapp1.client.esproj",
+      "Version": 2,
+      "Source": "reactapp1.client",
+      "GetPublishAssetsTargets": "GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
